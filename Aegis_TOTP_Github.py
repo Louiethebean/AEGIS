@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
+# Crunch bang that tells the system where to find python, may need to be edited for personal use
 
-
-
+# ASCII TEXT ART
 print("""
 
             ,----------------,              ,---------,
@@ -63,7 +63,7 @@ print("""
 
 
 
-
+# imports
 import sys
 
 import smtplib
